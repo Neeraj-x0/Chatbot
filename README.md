@@ -32,6 +32,6 @@ AI Based Chatbot  Made on Python Completely Opensource
 
 [Neeraj](https://github.com/Neeraj-x0)
 
-##Thanks To:
+## Thanks To:
 - [Natesh Bhat](https://github.com/nateshmbhat) For Pyttsx3
 - [Brainshop Ai](brainshop.ai) For AI Response
