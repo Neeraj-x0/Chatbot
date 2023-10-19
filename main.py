@@ -26,8 +26,9 @@ with sr.Microphone() as source:
                    
                 break              
             else:
-                print(bot(text))
-                talkf(bot(text))
+                out_text = bot(text) 
+                print("Bot : ",out_text)
+                talkf(out_text)
                 
             
                 
